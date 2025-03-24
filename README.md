@@ -12,7 +12,7 @@ By extracting key details like contact IDs, names, and emails, I transform raw d
 
 - Screenshots Folder: A collection of print screens showing the tables in the database for easy reference.
 
-# 🧑‍💻 **Key Insights:**
+🧑‍💻**Key Insights:**
 **1 Campaign Statistics:**
 
 - Average Goal: $43,983
