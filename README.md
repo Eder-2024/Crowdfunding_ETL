@@ -5,14 +5,14 @@ Welcome to the Crowdfunding Data Analysis repository! This project demonstrates 
 
 By extracting key details like contact IDs, names, and emails, I transform raw data into a well-organized format, ensuring it’s ready for database import or further use. Additionally, the project involves the creation of a Crowdfunding Database, including designing a table schema and analyzing crowdfunding campaign statistics.
 
-💡**What's Included:**
+## 💡**What's Included:**
 - Two ERD Files: Diagrams showcasing the structure and relationships within the database.
 
 - Database Backup: A full backup of the database created during this process.
 
 - Screenshots Folder: A collection of print screens showing the tables in the database for easy reference.
 
-🧑‍💻**Key Insights:**
+## 🧑‍💻**Key Insights:**
 
 **1 Campaign Statistics:**
 
